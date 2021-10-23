@@ -1,2 +1,0 @@
-# TodoApp
-Sample todo app
